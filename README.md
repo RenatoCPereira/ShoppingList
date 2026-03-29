@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com foco em boas práticas de desenvolvimento back
 
 ## 🚀 Tecnologias utilizadas
 
-* Java 17
+* Java 21
 * Spring Boot
 * Spring Data JPA
 * Banco de dados H2 (em memória)
